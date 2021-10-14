@@ -1,1 +1,8 @@
-p{border: 2px; border-color: black;}
+p{
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: double;
+}
+div{
+    text-decoration: underline;
+}
