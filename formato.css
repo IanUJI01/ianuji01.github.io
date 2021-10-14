@@ -1,8 +1,8 @@
-.h1{
+h1{
     color: chocolate;
     text-align: center;
 }
-#hola{
+.hola{
     color: blue;
     size: 80px;
 }
