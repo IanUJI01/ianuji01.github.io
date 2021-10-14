@@ -1,8 +1,16 @@
+body{
+    background-color: violet;
+}
 h1{
     color: chocolate;
     text-align: center;
 }
 .hola{
     color: blue;
-    size: 80px;
+    text-size-adjust: 80px;
+}
+#cosa{
+    color:darkslateblue;
+    text-align: justify;
+    text-align: right;
 }
