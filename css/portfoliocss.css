@@ -1,0 +1,14 @@
+body{
+    text-align: justify;
+    background-color: black;
+}
+h1,h3,p,div{
+    color:white
+}
+h1,h3{
+    text-align: center;
+}
+a{
+    color:aqua;
+    text-align:center !important;
+}
