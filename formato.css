@@ -1,8 +1,8 @@
-p{
+.p{
     background-color: aquamarine;
     text-align: center;
     text-decoration: double;
 }
-div{
+.div{
     text-decoration: underline;
 }
